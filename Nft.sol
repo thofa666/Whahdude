@@ -1,9 +1,4 @@
-/**
- *Submitted for verification at polygonscan.com on 2022-06-11
-*/
 
-// File: contracts/utils/Strings.sol
-//SPDX-License-Identifier: MIT
 
 
 pragma solidity ^0.8.0;

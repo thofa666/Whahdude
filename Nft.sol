@@ -1437,9 +1437,7 @@ abstract contract ERC721Enumerable is ERC721, IERC721Enumerable {
     }
 }
 
-// File: whahdude.sol
 
-//SPDX-License-Identifier: MIT
 
 pragma solidity ^0.8.4;
 
